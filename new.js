@@ -1,0 +1,1 @@
+var count = document.getElementById("div1").innerHTML=35
